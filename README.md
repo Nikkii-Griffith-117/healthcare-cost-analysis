@@ -34,19 +34,16 @@ This project analyzes healthcare cost drivers using Python and SQL-based analysi
 ---
 
 ## 📈 Key Insights
-- Smoking significantly increases healthcare costs
-- Higher BMI is correlated with higher charges
-- Age plays a major role in increasing medical expenses
-- Certain regions show slightly higher average costs
-
+- Smokers have significantly higher medical charges than non-smokers
+- Higher BMI is associated with increased healthcare costs
+- Certain regions show moderate variation in average charges
+- Age positively correlates with higher insurance costs
 ---
 
 ## 💡 Business Recommendations
-- Encourage smoking cessation programs to reduce high-cost claims
-- Promote preventive care and wellness programs
-- Target high-risk groups with early intervention strategies
-- Use data to personalize insurance pricing models
-
+- Implement smoking cessation programs and incentives (with stipulations) to reduce long-term costs
+- Promote preventative care initiatives and plan premium discount incentives for high BMI members
+- Invesitigate regional cost differences for pricing optimization
 ---
 
 👉 [View Full Analysis on Kaggle] (https://www.kaggle.com/code/nikkiigriffith/healthcare-cost-analysis-project) 
