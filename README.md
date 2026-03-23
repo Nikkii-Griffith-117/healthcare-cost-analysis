@@ -1,8 +1,7 @@
 # Healthcare Cost Analysis
 
 ## 📊 Project Overview
-This project analyzes healthcare insurance data to identify the key factors that drive medical costs. The goal is to uncover insights that can help businesses better understand cost patterns and improve decision-making.
-
+This project analyzes healthcare cost drivers using Python and SQL-based analysis techniques. The goal is to identify key factors influencing medical charges and translate those findings into actionable business recommendations.
 ---
 
 ## 🎯 Business Objective
@@ -15,7 +14,7 @@ This project analyzes healthcare insurance data to identify the key factors that
 ## 🛠 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Kaggle (Notebook environment)
-- SQL (conceptual analysis)
+- SQL (conceptual queries)
 
 ---
 
@@ -50,7 +49,5 @@ This project analyzes healthcare insurance data to identify the key factors that
 
 ---
 
-## 🔗 Project Link
-[Kaggle Notebook Link Here]
-
-
+👉 [View Full Analysis on Kaggle]  [
+](https://www.kaggle.com/code/nikkiigriffith/healthcare-cost-analysis-project)
