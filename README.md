@@ -1,6 +1,6 @@
 # Healthcare Cost Analysis
 
-## 📊 Project Overview
+## 📊 Project Summary
 This project analyzes healthcare cost drivers using Python and SQL-based analysis techniques. The goal is to identify key factors influencing medical charges and translate those findings into actionable business recommendations.
 ---
 
