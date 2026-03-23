@@ -49,5 +49,4 @@ This project analyzes healthcare cost drivers using Python and SQL-based analysi
 
 ---
 
-👉 [View Full Analysis on Kaggle]  [
-](https://www.kaggle.com/code/nikkiigriffith/healthcare-cost-analysis-project)
+👉 [View Full Analysis on Kaggle] (https://www.kaggle.com/code/nikkiigriffith/healthcare-cost-analysis-project) 
